@@ -1,4 +1,5 @@
 theme: jekyll-theme-minimal
 title: Kevin's homepage
-description: Check out my React project [here](https://kevinzhong1219.github.io/react-gh-pages/).
-
+navigation:
+- title: React project
+    url: https://kevinzhong1219.github.io/react-gh-pages/
